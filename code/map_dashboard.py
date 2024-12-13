@@ -24,6 +24,6 @@ cuse_map = gdf.explore(gdf['amount'], m=m,
                        cmap="magma",vmin=VMIN, vmax=VMAX, 
                        legend=True, legend_name='Amount',
                        marker_type = "circle",
-                       marker_kwds = {"radius": 10, "fill": True},
-)
+                       marker_kwds = {"radius": 10, "fill": True},)
+
 sf.folium_static(cuse_map, width=800, height=600)
