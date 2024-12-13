@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+Learned how to obtain data sets, but transform them so that these data can be used. Which in this assignment was for visualization of mapping. Learned to use matplotlib and seaborn for visualization.
